@@ -8,4 +8,4 @@ output "private_ip" {
 
 output "instance_type" {
     value = module.ec2.instance_id 
-}
+} 
